@@ -1,0 +1,8 @@
+{
+  "dependencies": ["."],
+  "graphs": {
+    "agent": "./agent.py:email_assistant"
+  },
+  "env": ".env",
+  "port": 2024
+}

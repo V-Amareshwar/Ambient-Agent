@@ -1,0 +1,13 @@
+langgraph==0.2.70
+langchain==0.3.17
+langchain-core==0.3.33
+langchain-groq==0.2.4
+langgraph-checkpoint==2.0.10
+langgraph-cli[inmem]==0.1.71
+google-api-python-client==2.160.0
+google-auth-oauthlib==1.2.1
+google-auth-httplib2==0.2.0
+html2text==2024.2.26
+python-dotenv==1.0.1
+pydantic==2.10.6
+tenacity==9.0.0
